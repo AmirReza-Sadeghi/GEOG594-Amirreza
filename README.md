@@ -6,4 +6,4 @@
 ##### 1. _*The URL to the BDA/GEOG class:*_ https://catalog.sdsu.edu/preview_course_nopop.php?catoid=3&coid=11969 / https://map.sdsu.edu/bigdata/
 ##### 1. _*Your own definition of Big Data:*_
 #### > 
-#### > 
+
